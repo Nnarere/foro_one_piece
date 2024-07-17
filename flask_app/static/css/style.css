@@ -1,0 +1,12 @@
+.logo{
+    width: 400px;
+}
+
+.usuario{
+    text-align: center;
+}
+
+.usuario_nombre{
+    font-weight: bold;
+    margin-bottom: 3px;
+}
